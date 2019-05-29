@@ -4,11 +4,13 @@
 - 2003～2006年ごろ作成
 - Windows XP
 - Borland C++ Builder 6.0（BCB6）
+- Adobe Illustrator CS2（バージョン 12）
+- Adobe Photoshop CS2 (9.0)
 
 ※現在（2019年）は、C++ Builderは、エンバカデロ・テクノロジーズのものらしいです。  
 Wikipediaでは、「Delphi」のC/C++版とも言えるRAD(Rapid Application Development)ツールと紹介されていました。
 
-# アップにあたって行ったこと
+# C++プログラムのアップにあたって行ったこと
 - プロジェクトファイルの拡張子や内容が変わっている
   - BCB6:*.bpr
   - Embarcadero RAD Studio 10.3:*.cbproj  
